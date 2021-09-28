@@ -1,0 +1,13 @@
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/bin/Debug/netcoreapp3.1/Emp-Wage.deps.json
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/bin/Debug/netcoreapp3.1/Emp-Wage.runtimeconfig.json
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/bin/Debug/netcoreapp3.1/Emp-Wage.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/bin/Debug/netcoreapp3.1/Emp-Wage.dll
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/bin/Debug/netcoreapp3.1/Emp-Wage.pdb
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/obj/Debug/netcoreapp3.1/Emp-Wage.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/obj/Debug/netcoreapp3.1/Emp-Wage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/obj/Debug/netcoreapp3.1/Emp-Wage.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/obj/Debug/netcoreapp3.1/Emp-Wage.AssemblyInfo.cs
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/obj/Debug/netcoreapp3.1/Emp-Wage.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/obj/Debug/netcoreapp3.1/Emp-Wage.dll
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/obj/Debug/netcoreapp3.1/Emp-Wage.pdb
+/Users/ramchandran/Desktop/Assignement-8(Empwage)/Emp-Wage/Emp-Wage/obj/Debug/netcoreapp3.1/Emp-Wage.genruntimeconfig.cache
